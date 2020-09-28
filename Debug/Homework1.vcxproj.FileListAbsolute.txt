@@ -1,0 +1,2 @@
+D:\WorkSpace\WorkSpace_VS2019_C\Homework1\Homework1\Debug\Homework1.exe
+D:\WorkSpace\WorkSpace_VS2019_C\Homework1\Homework1\Debug\Homework1.pdb
